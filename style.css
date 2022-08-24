@@ -5,6 +5,10 @@ body {
 h1 {
     font-size: 30px;
 }
+
+#banner {
+    width: 100%;
+}
 p {
     text-align: justify;
 }
