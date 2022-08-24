@@ -7,7 +7,8 @@ h1 {
 }
 
 #banner {
-    width: 40cm;
+    width: 10cm;
+    height: auto;
 }
 p {
     text-align: justify;
