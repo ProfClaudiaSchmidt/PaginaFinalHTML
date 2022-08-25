@@ -1,5 +1,5 @@
 body {
- background-color: beige;
+ background-color:beige
 }
 
 h1 {
@@ -9,7 +9,9 @@ h1 {
 #banner {
     width: 10cm;
     height: auto;
+    image-orientation: from-image;
 }
+
 p {
     text-align: justify;
 }
@@ -18,6 +20,6 @@ p {
     font-size: 20px;
 }
 
-em strong {
+strong {
     color:blue;
 }
